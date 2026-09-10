@@ -1,0 +1,5 @@
+streamlit
+pymupdf
+pypdf
+pytesseract
+pillow
